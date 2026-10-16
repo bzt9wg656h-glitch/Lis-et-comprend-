@@ -1,0 +1,1 @@
+{"name":"Lis avec moi","short_name":"Lis avec moi","description":"Lecture accessible avec synthèse vocale","lang":"fr","start_url":"./?v=20","scope":"./","display":"standalone","background_color":"#f5f8fd","theme_color":"#3266a8","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
